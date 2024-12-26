@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Небольшой проект с опытом использования React + Three + Gsap
+
+Модель взял готовую
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
